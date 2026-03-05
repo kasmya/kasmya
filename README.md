@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm kasmya 👋</h1>
 
 <p align="center">
-software developer • ai/ml • cybersecurity • full-stack development
+software developer • ai/ml • cybersecurity • cloud & full-stack systems
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@ software developer • ai/ml • cybersecurity • full-stack development
 </p>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydmNkenllbXZ0ZWtwYWlkbnZrNXd3dHo3dXRkN3dma3QwcTBwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="420">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydmNkenllbXZ0ZWtwYWlkbnZrNXd3dHo3dXRkN3dma3QwcTBwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="300">
 </p>
 
 ---
@@ -20,7 +20,7 @@ i’m a developer interested in **artificial intelligence, cybersecurity, and so
 
 i enjoy building systems end-to-end — from **data pipelines and machine learning models** to **backend services and full-stack applications**.
 
-i’m particularly interested in combining **intelligent systems with secure software practices** to build reliable, scalable, and resilient technology.
+i’m particularly interested in combining **intelligent systems with secure software engineering practices** to build reliable, scalable, and resilient technology.
 
 ---
 
@@ -77,17 +77,17 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 ### currently exploring
 
-• **ai applications in cybersecurity**  
+• **ai applications in cybersecurity** 
 • **threat detection & security analytics**  
 • scalable backend architectures  
-• cloud & distributed systems
+• distributed & cloud-native systems
 
 ---
 
 ### things i like building
 
 • full-stack applications  
-• machine learning systems  
+• machine learning pipelines  
 • security-focused tools  
 • developer utilities
 
@@ -99,7 +99,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 linkedin → <a href="https://www.linkedin.com/in/kasmya/">kasmya</a>
 
-<br>
+<br><br>
 
 github → you're already here :)
 
