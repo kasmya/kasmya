@@ -88,19 +88,22 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 ### github analytics
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kasmya&layout=compact&theme=tokyonight"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kasmya&theme=tokyonight)
 
 
 ---
 
 ### connect
 
-linkedin → <a href="https://www.linkedin.com/in/kasmya/">
-<img src="https://img.shields.io/badge/connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+<p align="center">
+
+linkedin → 
+<a href="https://www.linkedin.com/in/kasmya/">
+<img src="https://img.shields.io/badge/connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+
+<br>
 
 github → you're already here :)
 
-
+</p>
