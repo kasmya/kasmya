@@ -1,6 +1,6 @@
 <h1 align="center">
 hey, i'm kasmya 
-<img src="https://64.media.tumblr.com/ac34ec58e3ac81f7699ef8af09528ce2/tumblr_ob5uq1gqSi1us2o6lo1_250.gif" width="28">
+<img src="https://64.media.tumblr.com/ac34ec58e3ac81f7699ef8af09528ce2/tumblr_ob5uq1gqSi1us2o6lo1_250.gif" width="45">
 </h1>
 
 <p align="center">
