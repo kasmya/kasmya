@@ -89,8 +89,9 @@ i’m particularly interested in combining **intelligent systems with secure sof
 ### github analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasmya&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kasmya&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
