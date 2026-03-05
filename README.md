@@ -86,20 +86,12 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 ---
 
-### github analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasmya)](https://github.com/kasmya/github-readme-stats)
-
----
-
 ### connect
 
 <p align="center">
 
 linkedin → 
-<a href="https://www.linkedin.com/in/kasmya/">
-<img src="https://img.shields.io/badge/connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/kasmya/"> </a>
 
 <br>
 
