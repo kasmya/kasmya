@@ -45,17 +45,24 @@ i’m particularly interested in combining **intelligent systems with secure sof
 </p>
 
 #### ai / ml
+
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Model%20Training-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=for-the-badge">
+<img src="https://img.shields.io/badge/Model%20Deployment-0A66C2?style=for-the-badge">
 </p>
 
 #### cybersecurity
+
 <p>
 <img src="https://img.shields.io/badge/Ethical%20Hacking-FF0000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Threat%20Analysis-8B0000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Secure%20Software-222222?style=for-the-badge">
+<img src="https://img.shields.io/badge/Network%20Security-8B0000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Threat%20Detection-B22222?style=for-the-badge">
+<img src="https://img.shields.io/badge/Security%20Analysis-222222?style=for-the-badge">
+<img src="https://img.shields.io/badge/Secure%20Software%20Development-4B0082?style=for-the-badge">
 </p>
 
 #### tools & systems
