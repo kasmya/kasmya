@@ -88,7 +88,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 ### github analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasmya)](https://github.com/kasmya/github-readme-stats)
 
 ---
 
