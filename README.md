@@ -1,4 +1,7 @@
-<h1 align="center">hey, i'm kasmya 👋</h1>
+<h1 align="center">
+hey, i'm kasmya 
+<img src="https://64.media.tumblr.com/ac34ec58e3ac81f7699ef8af09528ce2/tumblr_ob5uq1gqSi1us2o6lo1_250.gif" width="28">
+</h1>
 
 <p align="center">
 software developer • ai/ml • cybersecurity • cloud & full-stack systems
@@ -6,10 +9,6 @@ software developer • ai/ml • cybersecurity • cloud & full-stack systems
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&width=520&height=45&lines=python+developer;ai+%2F+ml+explorer;mern+stack+builder;cybersecurity+learner;building+scalable+systems">
-</p>
-
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydmNkenllbXZ0ZWtwYWlkbnZrNXd3dHo3dXRkN3dma3QwcTBwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" width="240">
 </p>
 
 ---
