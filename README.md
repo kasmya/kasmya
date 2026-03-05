@@ -4,7 +4,7 @@ hey, i'm kasmya!
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&width=520&height=45&lines=python+developer;ai+%2F+ml+explorer;cloud+&+full+stack+systems;cybersecurity+ethusiast;building+scalable+systems">
+software developer • ai/ml • cybersecurity • cloud & full-stack systems
 </p>
 
 ---
