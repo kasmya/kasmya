@@ -92,17 +92,12 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasmya&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasmya&theme=tokyo-night">
-</p>
 
 ---
 
 ### connect
 
-linkedin → <a href="https://www.linkedin.com/in/kasmya/">
-<img src="https://img.shields.io/badge/Kasmya-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+linkedin → [kasmya](https://www.linkedin.com/in/kasmya/)
 github → you're already here :)
 
 
