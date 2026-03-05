@@ -36,7 +36,6 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge">
 </p>
 
 #### ai / ml
@@ -44,7 +43,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge">
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge">
 <img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=for-the-badge">
 <img src="https://img.shields.io/badge/Model%20Deployment-0A66C2?style=for-the-badge">
