@@ -98,9 +98,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <p align="center">
 
 linkedin → <a href="https://www.linkedin.com/in/kasmya/">kasmya</a>
-
-<br><br>
-
+<br>
 github → you're already here :)
 
 </p>
