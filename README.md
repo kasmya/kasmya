@@ -1,14 +1,10 @@
 <h1 align="center">
-hey, i'm kasmya 
-<img src="https://64.media.tumblr.com/ac34ec58e3ac81f7699ef8af09528ce2/tumblr_ob5uq1gqSi1us2o6lo1_250.gif" width="45">
+hey, i'm kasmya! 
+<img src="https://64.media.tumblr.com/ac34ec58e3ac81f7699ef8af09528ce2/tumblr_ob5uq1gqSi1us2o6lo1_250.gif" width="55">
 </h1>
 
 <p align="center">
-software developer • ai/ml • cybersecurity • cloud & full-stack systems
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&width=520&height=45&lines=python+developer;ai+%2F+ml+explorer;mern+stack+builder;cybersecurity+learner;building+scalable+systems">
+<img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&width=520&height=45&lines=python+developer;ai+%2F+ml+explorer;cloud+&+full+stack+systems;cybersecurity+ethusiast;building+scalable+systems">
 </p>
 
 ---
