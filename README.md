@@ -47,7 +47,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=for-the-badge">
 <img src="https://img.shields.io/badge/Model%20Deployment-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Quantum%20Computing-8E44AD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Quantum%20Computing-232F3E?style=for-the-badge">
 </p>
 
 #### cybersecurity
