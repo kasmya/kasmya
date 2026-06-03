@@ -11,7 +11,7 @@ software developer • ai/ml • cybersecurity • cloud & full-stack systems
 
 ### about me
 
-i’m a developer interested in **artificial intelligence, cybersecurity, and software engineering**.
+i’m a developer interested in **artificial intelligence, cybersecurity, data science and software engineering**.
 
 i enjoy building systems end-to-end — from **data pipelines and machine learning models** to **backend services and full-stack applications**.
 
@@ -30,12 +30,13 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-#### web development
+#### web/mobile development
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
 #### ai / ml
