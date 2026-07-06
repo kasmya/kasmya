@@ -77,6 +77,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20Web%20Services-228B22?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 </p>
 
 ---
