@@ -87,7 +87,7 @@ i’m particularly interested in combining **intelligent systems with secure sof
 • **ai applications in cybersecurity** <br>
 • **threat detection & security analytics**  
 • scalable backend architectures  
-• distributed & cloud-native systems
+• distributed & cloud-native systems <br>
 • academic research in computer science
 
 ---
