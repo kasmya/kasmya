@@ -63,6 +63,8 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Snort%20IDS-CC0000?style=for-the-badge&logo=snort&logoColor=white">
+<img src="https://img.shields.io/badge/Intrusion%20Detection%20System-FF0000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Anomaly%20Detection-006400?style=for-the-badge&logoColor=white">
 </p>
 
 #### tools & systems
