@@ -60,7 +60,8 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Threat%20Detection-B22222?style=for-the-badge">
 <img src="https://img.shields.io/badge/Security%20Analysis-222222?style=for-the-badge">
 <img src="https://img.shields.io/badge/Secure%20Software%20Development-4B0082?style=for-the-badge">
-<img src="https://img.shields.io/badge/Intrusion%20Detection%20System-FF0000?style=for-the-badge&logo=security&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/YARA%20Rules-FF4500?style=for-the-badge&logo=yara&logoColor=white"> 
 </p>
 
 #### tools & systems
