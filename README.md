@@ -50,9 +50,9 @@ i’m particularly interested in combining **intelligent systems with secure sof
 <img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=for-the-badge">
 <img src="https://img.shields.io/badge/Model%20Deployment-0A66C2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Quantum%20Computing-232F3E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Federated%20Learning-1E90FF?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Contextual%20Bandits-FF1493?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-FFD700?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/Federated%20Learning-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Contextual%20Bandits-FF1493?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-FFD700?style=for-the-badge">
 </p>
 
 #### cybersecurity
