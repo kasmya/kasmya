@@ -101,6 +101,12 @@ i’m particularly interested in combining **intelligent systems with secure sof
 
 ---
 
+### github stats
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=kasmya&theme=dracula)
+
+---
+
 ### connect
 
 <p align="center">
