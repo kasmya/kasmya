@@ -110,3 +110,5 @@ linkedin → <a href="https://www.linkedin.com/in/kasmya/">kasmya</a>
 github → you're already here :)
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,40:7C3AED,70:2563EB,100:0B1020&height=120&section=footer"/>
